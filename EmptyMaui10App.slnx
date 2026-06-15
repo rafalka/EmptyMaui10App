@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="EmptyMaui10App.Droid/EmptyMaui10App.Droid.csproj" />
+  <Project Path="EmptyMaui10App.iOS/EmptyMaui10App.iOS.csproj" />
+  <Project Path="EmptyMaui10App/EmptyMaui10App.csproj" />
+</Solution>
