@@ -1,4 +1,6 @@
-﻿namespace EmptyMaui10App.Droid
+﻿#warning Building EmptyMaui10App.Droid project
+
+namespace EmptyMaui10App.Droid
 {
     public static class MauiProgram
     {

@@ -1,4 +1,6 @@
-﻿namespace EmptyMaui10App.iOS
+﻿#warning Building EmptyMaui10App.iOS project
+
+namespace EmptyMaui10App.iOS
 {
     public static class MauiProgram
     {

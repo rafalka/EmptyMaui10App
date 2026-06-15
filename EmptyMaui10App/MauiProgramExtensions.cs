@@ -1,4 +1,12 @@
-﻿using Microsoft.Extensions.Logging;
+﻿#if IOS
+#warning Building EmptyMaui10App for iOS
+#elif ANDROID
+#warning Building EmptyMaui10App for Android
+#else
+#warning Building EmptyMaui10App for .NET core
+#endif
+
+using Microsoft.Extensions.Logging;
 
 namespace EmptyMaui10App
 {
